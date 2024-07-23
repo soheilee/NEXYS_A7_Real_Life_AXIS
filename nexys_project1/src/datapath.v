@@ -13,7 +13,7 @@
 
 */
 
-module datapath #(parameter DW=5120)
+module datapath #(parameter DW=512)
 (
     input              clk, resetn,
     input[31:0]        FRAME_SIZE,

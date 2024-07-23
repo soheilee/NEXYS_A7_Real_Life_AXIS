@@ -1577,7 +1577,7 @@
             "vlnv": "xilinx.com:interface:axis_rtl:1.0",
             "parameters": {
               "TDATA_NUM_BYTES": {
-                "value": "640",
+                "value": "64",
                 "value_src": "auto"
               },
               "TDEST_WIDTH": {
@@ -1613,7 +1613,7 @@
               "TDATA": {
                 "physical_name": "axis_df_tdata",
                 "direction": "I",
-                "left": "5119",
+                "left": "511",
                 "right": "0"
               },
               "TVALID": {
@@ -1632,7 +1632,7 @@
             "vlnv": "xilinx.com:interface:axis_rtl:1.0",
             "parameters": {
               "TDATA_NUM_BYTES": {
-                "value": "640",
+                "value": "64",
                 "value_src": "auto"
               },
               "TDEST_WIDTH": {
@@ -1668,7 +1668,7 @@
               "TDATA": {
                 "physical_name": "axis_md_tdata",
                 "direction": "I",
-                "left": "5119",
+                "left": "511",
                 "right": "0"
               },
               "TVALID": {
@@ -1687,7 +1687,7 @@
             "vlnv": "xilinx.com:interface:axis_rtl:1.0",
             "parameters": {
               "TDATA_NUM_BYTES": {
-                "value": "640",
+                "value": "64",
                 "value_src": "auto"
               },
               "TDEST_WIDTH": {
@@ -1723,13 +1723,13 @@
               "TDATA": {
                 "physical_name": "axis_out0_tdata",
                 "direction": "O",
-                "left": "5119",
+                "left": "511",
                 "right": "0"
               },
               "TKEEP": {
                 "physical_name": "axis_out0_tkeep",
                 "direction": "O",
-                "left": "639",
+                "left": "63",
                 "right": "0"
               },
               "TLAST": {
@@ -1752,7 +1752,7 @@
             "vlnv": "xilinx.com:interface:axis_rtl:1.0",
             "parameters": {
               "TDATA_NUM_BYTES": {
-                "value": "640",
+                "value": "64",
                 "value_src": "auto"
               },
               "TDEST_WIDTH": {
@@ -1788,13 +1788,13 @@
               "TDATA": {
                 "physical_name": "axis_out1_tdata",
                 "direction": "O",
-                "left": "5119",
+                "left": "511",
                 "right": "0"
               },
               "TKEEP": {
                 "physical_name": "axis_out1_tkeep",
                 "direction": "O",
-                "left": "639",
+                "left": "63",
                 "right": "0"
               },
               "TLAST": {
